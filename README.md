@@ -1,1 +1,1 @@
-# product_queries38
+# product_queries sql database queries
